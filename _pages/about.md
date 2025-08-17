@@ -37,3 +37,5 @@ This is a section about UPCs.
 Experimental jet physics
 ======
 This is a section about jet calibrations
+
+<img src='/images/fig_25.png'>
