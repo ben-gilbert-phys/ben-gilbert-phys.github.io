@@ -30,6 +30,8 @@ This is a section about nPDFs.<img align="right" src='/images/500x300.png' width
 
 Ultra-peripheral heavy-ion collisions
 ======
+<img src='/images/ATLAS_VP1_HI_UCC_dijet_lb471_run488915_evt467566630_2024-11-06T13-22-40-banner_0.png'>
+
 This is a section about UPCs.
 
 Experimental jet physics
