@@ -26,7 +26,7 @@ matter and the forces which bind it together.
 
 Breaking down the nucleus
 ======
-This is a section about nPDFs.<img align="right" src='/images/500x300.png' width="400px" text="Caption?">
+This is a section about nPDFs.<img align="right" src='/images/proton_quark_gluon.webp' width="400px">
 
 Ultra-peripheral heavy-ion collisions
 ======
