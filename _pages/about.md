@@ -26,7 +26,23 @@ matter and the forces which bind it together.
 
 Breaking down the nucleus
 ======
-This is a section about nPDFs.<img align="right" src='/images/proton_quark_gluon.webp' width="400px">
+At the core of every atom, the nucleus is an incredibly complex object, formed by shells of protons 
+and neutrons. A simple picture of these protons or neutrons is that they are each composed of three 
+quarks, but their true "partonic" structure is far more complicated. They are bound together by Quantum 
+Chromodynamics (QCD) which is an analog of electromagnetism, except where the force-carrying particles (gluons), 
+can also interact with themselves. This self-interaction and the incredibly large interaction strength of 
+QCD mean that protons and neutrons are not simply three valence quarks with a few gluons holding them 
+together. Instead, the gluons can split, forming pairs of virtual particles, or re-combine, merging 
+multiple gluons into one. These repeated processes of splitting and re-combinations form the complex 
+sea of quarks and gluons at the interior of every atomic nucleus. <img align="right" src='/images/proton_quark_gluon.webp' width="400px">
+
+This picture of a sea of quarks and gluons (partons) inside each proton or neutron is further complicated when you 
+start packing them on top of each other in a nucleus. It was first observed (very surprisingly!) by the EMC 
+collaboration in 1983 that a proton bound inside of a nucleus contains different numbers of partons than 
+a free proton. The so-called "EMC effect", along with "shadowing" and "anti-shadowing" of lower-momentum 
+partons cause nuclei to look different than one would expect. The reasons for these differences are deeply connected 
+to the nature of QCD itself, and the goal of my research is to image the partonic structure of nuclei in order 
+to learn more about matter itself and the forces which bind it together.
 
 Ultra-peripheral heavy-ion collisions
 ======
@@ -38,4 +54,4 @@ Experimental jet physics
 ======
 This is a section about jet calibrations
 
-<img src='/images/fig_25.png'>
+<img src='/images/fig_25.png' width="400px">
