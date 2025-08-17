@@ -26,6 +26,7 @@ matter and the forces which bind it together.
 
 Breaking down the nucleus
 ======
+<img align="right" src='/images/proton_quark_gluon.webp' width="400px">
 At the core of every atom, the nucleus is an incredibly complex object, formed by shells of protons 
 and neutrons. A simple picture of these protons or neutrons is that they are each composed of three 
 quarks, but their true "partonic" structure is far more complicated. They are bound together by Quantum 
@@ -34,7 +35,7 @@ can also interact with themselves. This self-interaction and the incredibly larg
 QCD mean that protons and neutrons are not simply three valence quarks with a few gluons holding them 
 together. Instead, the gluons can split, forming pairs of virtual particles, or re-combine, merging 
 multiple gluons into one. These repeated processes of splitting and re-combinations form the complex 
-sea of quarks and gluons at the interior of every atomic nucleus. <img align="right" src='/images/proton_quark_gluon.webp' width="400px">
+sea of quarks and gluons at the interior of every atomic nucleus. 
 
 This picture of a sea of quarks and gluons (partons) inside each proton or neutron is further complicated when you 
 start packing them on top of each other in a nucleus. It was first observed (very surprisingly!) by the EMC 
