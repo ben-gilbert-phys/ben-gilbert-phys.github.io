@@ -26,9 +26,9 @@ matter and the forces which bind it together.
 
 Breaking down the nucleus
 ======
-<img align="right" src='/images/proton_quark_gluon.webp' width="400px">
+
 At the core of every atom, the nucleus is an incredibly complex object, formed by shells of protons 
-and neutrons. A simple picture of these protons or neutrons is that they are each composed of three 
+and neutrons. A simple picture of these protons or neutrons is that they are each composed of three <img align="right" src='/images/proton_quark_gluon.webp' width="400px">
 quarks, but their true "partonic" structure is far more complicated. They are bound together by Quantum 
 Chromodynamics (QCD) which is an analog of electromagnetism, except where the force-carrying particles (gluons), 
 can also interact with themselves. This self-interaction and the incredibly large interaction strength of 
