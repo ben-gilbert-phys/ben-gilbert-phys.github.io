@@ -19,29 +19,34 @@ fundamental constituents, quarks and gluons. I study these topics in [relativist
 collisions](http://home.cern/science/physics/heavy-ions-and-quark-gluon-plasma), where 
 the nuclei of heavy atoms are injected into the LHC and accelerated to nearly the speed of light. 
 We then smash pairs of these nuclei together inside the ATLAS detector, and the remnants of the collision 
-explode outward. When they pass through our detector, it is then possible to construct an image of the 
-shattered ions and their interactions. Through these experiments, my research seeks to map out the 
-quarks and gluons inside each nucleus, discerning new information about the structure of all 
-matter and the forces which bind it together. 
+explode outward. When they pass through our detector, they leave signatures of their properties, which make 
+it possible to construct an image of the shattered ions and their interactions. Through these experiments, 
+my research seeks to map out the quarks and gluons inside each nucleus, discerning new information about 
+the structure of all matter and the forces which bind it together. 
 
 Breaking down the nucleus
 ======
 
-At the core of every atom, the nucleus is an incredibly complex object, formed by shells of protons 
-and neutrons. A simple picture of these protons or neutrons is that they are each composed of three <img align="right" src='/images/proton_quark_gluon.webp' width="400px">
+The core of every atom, its nucleus, is an incredibly complex object, with a rich structure underlying the 
+basic picture of stacking shells of protons and neutrons (nucleons). These nucleons are each composed of 
+three <img align="right" src='/images/proton_quark_gluon.webp' width="400px">
 quarks, but their true "partonic" structure is far more complicated. They are bound together by Quantum 
-Chromodynamics (QCD) which is an analog of electromagnetism, except where the force-carrying particles (gluons), 
-can also interact with themselves. This self-interaction and the incredibly large interaction strength of 
-QCD mean that protons and neutrons are not simply three valence quarks with a few gluons holding them 
+Chromodynamics (QCD), which is an analog of electromagnetism, except where the force-carrying particles (gluons) 
+also exhibit self-interactions. The combination of these self-interactions with the massive interaction strength of 
+QCD yields a structure to protons and neutrons which goes beyond three valence quarks and a few gluons holding them 
 together. Instead, the gluons can split, forming pairs of virtual particles, or re-combine, merging 
 multiple gluons into one. These repeated processes of splitting and re-combinations form the complex 
 sea of quarks and gluons at the interior of every atomic nucleus. 
 
-This picture of a sea of quarks and gluons (partons) inside each proton or neutron is further complicated when you 
-start packing them on top of each other in a nucleus. It was first observed (very surprisingly!) by the EMC 
-collaboration in 1983 that a proton bound inside of a nucleus contains different numbers of partons than 
+This picture of a sea of quarks and gluons (partons) inside each proton or neutron is further complicated when they 
+are packed on top of each other inside a nucleus. It was first observed (very surprisingly!) by the [EMC 
+collaboration in 1983](https://cerncourier.com/a/the-emc-effect-still-puzzles-after-30-years/) that a 
+proton bound inside of a nucleus contains different numbers of partons than 
 a free proton. The so-called "EMC effect", along with "shadowing" and "anti-shadowing" of lower-momentum 
-partons cause nuclei to look different than one would expect. The reasons for these differences are deeply connected 
+partons cause <b>nuclear modifications</b> to the "free-nucleon baseline". These deviations are so surprising because 
+the forces which bind nuclei together are too weak to resolve the individual partons of a nucleus, so the 
+question at the core of partonic structure of nuclei is a fundemantal one: how do QCD interactions modify 
+processes with huge separations in energy scale? The answers to this question are deeply connected 
 to the nature of QCD itself, and the goal of my research is to image the partonic structure of nuclei in order 
 to learn more about matter itself and the forces which bind it together.
 
@@ -49,7 +54,7 @@ Ultra-peripheral heavy-ion collisions
 ======
 <img src='/images/ATLAS_VP1_HI_UCC_dijet_lb471_run488915_evt467566630_2024-11-06T13-22-40-banner_0.png'>
 
-This is a section about UPCs.
+
 
 Experimental jet physics
 ======
