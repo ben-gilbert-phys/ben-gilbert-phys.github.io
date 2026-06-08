@@ -6,6 +6,5 @@ permalink: /talks/2025-06-01-upc-workshop-2-dijet-saariselka
 venue: "The 2nd International Workshop on the Physics of Ultra-Peripheral Collisions (UPC)"
 date: 2025-06-01
 location: "Saariselkä, Finland"
+link: "https://indico.global/event/9992/contributions/122593/"
 ---
-
-[More information here](https://indico.global/event/9992/contributions/122593/)

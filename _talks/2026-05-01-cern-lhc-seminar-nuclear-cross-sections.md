@@ -6,6 +6,5 @@ permalink: /talks/2026-05-01-cern-lhc-seminar-nuclear-cross-sections
 venue: "CERN LHC Seminar"
 date: 2026-05-01
 location: "Geneva, Switzerland"
+link: "https://indico.cern.ch/event/1677477/"
 ---
-
-[More information here](https://indico.cern.ch/event/1677477/)
