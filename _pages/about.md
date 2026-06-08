@@ -54,7 +54,31 @@ Ultra-peripheral heavy-ion collisions
 ======
 <img src='/images/ATLAS_VP1_HI_UCC_dijet_lb471_run488915_evt467566630_2024-11-06T13-22-40-banner_0.png'>
 
+The main tool I have used to image the structure of nuclei is ultra-peripheral collisions (UPCs), 
+which are a unique class of heavy ion collisions characterized by low event activity due to the unique 
+particle production mechanism. In these collisions, the nuclei glance past each other with no overlap, 
+and at least one nucleus emits a very high-energy photon, which strikes the other, 
+shattering it and imaging its contents. This process is analogous to using an X-ray machine to take a precise 
+picture using high-energy beams of light, except in this case, the light has 100,000 times more energy than 
+the most powerful medical X-ray. The benefit of photon-nucleus interactions, is that we understand light as 
+a probe a lot better than a proton or another nucleus, collisions, since their interactions are primarily 
+governed by quantum electrodynamics (QED) instead of QCD, which is a much simpler theory.
 
+The main challenge of studying ultra-peripheral collisions is identifying and selecting these events (which are 
+some of the lowest-activity collisions at the LHC), while other collisions also produce incredibly high event 
+activities (from head-on heavy ion collisions). The low-activity UPC events are very sensitive to backgrounds, 
+and they require a precise understanding of the event topology and detector conditions in order to select and 
+record them. My own work on [jet photoproduction](https://arxiv.org/abs/2409.11060) demonstrated a variety of 
+novel methods to select these events and analyze their properties at high enough precision to directly constrain 
+the nuclear quark and gluon distributions. In fact, these studies exhbited enough precision to even be sensitive 
+to the structure of the photon itself in addition to that of the nucleus. This measurement isolated "inclusive" 
+photon-nucleus interactions, where the photon shatters the nucleus, for the first time, directly constraining its 
+partonic content.
+
+The experimental and theoretical methods for studying UPCs have evolved rapidly in the last 10 years, and they 
+now present a unique opportunity to probe the structure of UPCs at unprecedented precision. I am interested 
+in continuing to leverage these developments in both inclusive and exclusive photoproduction processes, studying 
+a variety of observables.
 
 Experimental jet physics
 ======
