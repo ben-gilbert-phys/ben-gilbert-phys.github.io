@@ -13,7 +13,5 @@ paperurl: 'https://arxiv.org/abs/2409.11060'
 
 I am the primary analyzer on this measurement.
 
-<a href='https://arxiv.org/abs/2409.11060'>Download paper here</a>
-
 * First-of-its-kind measurement demonstrating the capacity of ultra-peripheral heavy ion collisions to probe parton distributions at high precision
 * Provided the basis for subsequent measurements in this collision system

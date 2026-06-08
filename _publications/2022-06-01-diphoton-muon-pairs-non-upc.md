@@ -11,9 +11,7 @@ venue: "Phys. Rev. C (Editors' Suggestion)"
 paperurl: 'https://arxiv.org/abs/2206.12594'
 ---
 
-I am one of two primary analyzers on this measurement, which was published in Phys. Rev. C and selected as an Editors' Suggestion.
-
-<a href='https://arxiv.org/abs/2206.12594'>Download paper here</a>
+I am one of two primary analyzers on this measurement.
 
 * Results set new constraints on the impact parameter dependence of the nuclear photon flux
 * Provides a novel method of constraining both magnetic fields in the QGP and electromagnetic re-scattering from the plasma

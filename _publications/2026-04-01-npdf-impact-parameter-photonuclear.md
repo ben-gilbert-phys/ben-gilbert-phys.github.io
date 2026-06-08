@@ -13,7 +13,5 @@ paperurl: 'https://arxiv.org/abs/2604.20559'
 
 I am the primary analyzer on this measurement.
 
-<a href='https://arxiv.org/abs/2604.20559'>Download paper here</a>
-
 * Exploits dependence of jet photoproduction on forward neutron topology to observe the dependence of nuclear parton distributions on impact parameter for the first time
 * Has widespread implications for both the fundamental structure of matter and the interpretation of key observables from heavy-ion collisions

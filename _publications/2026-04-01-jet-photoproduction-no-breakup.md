@@ -13,7 +13,5 @@ paperurl: 'https://arxiv.org/abs/2604.24435'
 
 I am the primary analyzer on this measurement.
 
-<a href='https://arxiv.org/abs/2604.24435'>Download paper here</a>
-
 * Develops a novel methodology to use jet photoproduction to probe nuclear diffractive structure and the transverse structure of parton distributions
 * Includes the first measurement of coherent diffractive jet production in photon-nucleus collisions
