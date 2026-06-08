@@ -3,6 +3,8 @@ title: "Measurement of jet photoproduction in ultra-peripheral Pb+Pb collisions 
 collection: publications
 category: manuscripts
 permalink: /publication/2026-04-01-jet-photoproduction-no-breakup
+header:
+  teaser: pubs-2026-jet-photoproduction-no-breakup.png
 excerpt: 'Develops a novel methodology using jet photoproduction to probe nuclear diffractive structure, including the first measurement of coherent diffractive jet production in photon-nucleus collisions.'
 date: 2026-04-01
 venue: 'Phys. Rev. C (submitted)'
