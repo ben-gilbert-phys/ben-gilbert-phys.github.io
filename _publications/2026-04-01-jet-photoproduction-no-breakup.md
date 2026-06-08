@@ -9,7 +9,17 @@ excerpt: 'Develops a novel methodology using jet photoproduction to probe nuclea
 date: 2026-04-01
 venue: 'Phys. Rev. C (submitted)'
 paperurl: 'https://arxiv.org/abs/2604.24435'
-citation: 'ATLAS Collaboration. (2026). &quot;Measurement of jet photoproduction in ultra-peripheral Pb+Pb collisions without nuclear breakup at 5.02 TeV with the ATLAS detector.&quot; <i>Phys. Rev. C</i> (submitted). arXiv:2604.24435.'
+citation: |
+  @article{ATLAS_2604.24435,
+    collaboration = {ATLAS},
+    title         = {{Measurement of jet photoproduction in ultra-peripheral Pb+Pb collisions without nuclear breakup at 5.02 TeV with the ATLAS detector}},
+    journal       = {Phys. Rev. C},
+    note          = {submitted},
+    year          = {2026},
+    eprint        = {2604.24435},
+    archivePrefix = {arXiv},
+    primaryClass  = {nucl-ex}
+  }
 ---
 
 I am the primary analyzer on this measurement.
@@ -18,5 +28,3 @@ I am the primary analyzer on this measurement.
 
 * Develops a novel methodology to use jet photoproduction to probe nuclear diffractive structure and the transverse structure of parton distributions
 * Includes the first measurement of coherent diffractive jet production in photon-nucleus collisions
-
-Recommended citation: ATLAS Collaboration. (2026). "Measurement of jet photoproduction in ultra-peripheral Pb+Pb collisions without nuclear breakup at 5.02 TeV with the ATLAS detector." <i>Phys. Rev. C</i> (submitted). arXiv:2604.24435.
