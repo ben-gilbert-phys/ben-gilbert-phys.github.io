@@ -37,7 +37,11 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% if page.venue contains "(submitted)" %}
+            <p>Submitted to <i>{{ page.venue | remove: " (submitted)" }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% else %}
+            <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% endif %}
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}    
@@ -47,10 +51,6 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation %}
-          <p style="font-size: smaller; margin-bottom: 0.25em;">Recommended citation (BibTeX):</p>
-          <pre style="font-size: smaller; white-space: pre-wrap; overflow-x: auto;"><code>{{ page.citation }}</code></pre>
-        {% endif %}
         {% assign has_paper_or_slides = false %}
         {% if page.paperurl or page.slidesurl %}{% assign has_paper_or_slides = true %}{% endif %}
         {% if page.paperurl or page.slidesurl or page.bibtexurl %}

@@ -9,16 +9,6 @@ excerpt: 'A first-of-its-kind measurement demonstrating the capacity of ultra-pe
 date: 2024-09-01
 venue: 'Phys. Rev. D'
 paperurl: 'https://arxiv.org/abs/2409.11060'
-citation: |
-  @article{ATLAS_2409.11060,
-    collaboration = {ATLAS},
-    title         = {{Measurement of photonuclear jet production in ultra-peripheral Pb+Pb collisions at 5.02 TeV with the ATLAS detector}},
-    journal       = {Phys. Rev. D},
-    year          = {2024},
-    eprint        = {2409.11060},
-    archivePrefix = {arXiv},
-    primaryClass  = {nucl-ex}
-  }
 ---
 
 I am the primary analyzer on this measurement.

@@ -9,17 +9,6 @@ excerpt: 'Exploits the dependence of jet photoproduction on forward neutron topo
 date: 2026-04-01
 venue: 'Phys. Rev. Lett. (submitted)'
 paperurl: 'https://arxiv.org/abs/2604.20559'
-citation: |
-  @article{ATLAS_2604.20559,
-    collaboration = {ATLAS},
-    title         = {{Observation of impact parameter dependent modifications of nuclear parton distributions in photonuclear Pb+Pb collisions at 5.02 TeV with the ATLAS detector}},
-    journal       = {Phys. Rev. Lett.},
-    note          = {submitted},
-    year          = {2026},
-    eprint        = {2604.20559},
-    archivePrefix = {arXiv},
-    primaryClass  = {nucl-ex}
-  }
 ---
 
 I am the primary analyzer on this measurement.
