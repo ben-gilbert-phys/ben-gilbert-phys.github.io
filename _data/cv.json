@@ -1,61 +1,54 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ben Gilbert",
+    "email": "gilbert35@llnl.gov",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ben-gilbert-phys.github.io",
+    "summary": "Currently employed at Lawrence Livermore National Lab. Postdoctoral Researcher in Relativistic Heavy Ion Physics",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Livermore, CA",
       "countryCode": "US",
       "region": ""
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+    "profiles": []
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Columbia University",
+      "area": "Ph.D in Nuclear Physics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Columbia University",
+      "area": "M.Phil. and M.A. in Physics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Virginia",
+      "area": "B.S. in Physics *with Highest Honors*",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2017",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Virginia",
+      "area": "B.S. in Computer Science *with Highest Honors*",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     }
@@ -66,76 +59,251 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Measurement of muon pairs produced via \u03b3\u03b3 scattering in non-ultraperipheral Pb+Pb collisions at \u221asNN = 5.02 TeV with the ATLAS detector",
+      "publisher": "Phys. Rev. C",
+      "releaseDate": "2022-06-01",
+      "website": "https://arxiv.org/abs/2206.12594",
+      "summary": "Sets new constraints on the impact parameter dependence of the nuclear photon flux, providing a novel method for constraining both magnetic fields in the QGP and electromagnetic re-scattering from the plasma."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Measurement of photonuclear jet production in ultra-peripheral Pb+Pb collisions at 5.02 TeV with the ATLAS detector",
+      "publisher": "Phys. Rev. D",
+      "releaseDate": "2024-09-01",
+      "website": "https://arxiv.org/abs/2409.11060",
+      "summary": "A first-of-its-kind measurement demonstrating the capacity of ultra-peripheral heavy ion collisions to probe parton distributions at high precision, providing the basis for subsequent measurements in this collision system."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Measurement of coincident photon-initiated processes in ultra-peripheral Pb+Pb collisions with the ATLAS detector",
+      "publisher": "Phys. Lett. B (submitted)",
+      "releaseDate": "2025-04-01",
+      "website": "https://arxiv.org/abs/2504.07795",
+      "summary": "First measurement of the rate for simultaneous photoproduction processes in an ultra-peripheral collision, further constraining photoproduction in heavy ion collisions."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Measurement of jet photoproduction in ultra-peripheral Pb+Pb collisions without nuclear breakup at 5.02 TeV with the ATLAS detector",
+      "publisher": "Phys. Rev. C (submitted)",
+      "releaseDate": "2026-04-01",
+      "website": "https://arxiv.org/abs/2604.24435",
+      "summary": "Develops a novel methodology using jet photoproduction to probe nuclear diffractive structure, including the first measurement of coherent diffractive jet production in photon-nucleus collisions."
+    },
+    {
+      "name": "Observation of impact parameter dependent modifications of nuclear parton distributions in photonuclear Pb+Pb collisions at 5.02 TeV with the ATLAS detector",
+      "publisher": "Phys. Rev. Lett. (submitted)",
+      "releaseDate": "2026-04-01",
+      "website": "https://arxiv.org/abs/2604.20559",
+      "summary": "Exploits the dependence of jet photoproduction on forward neutron topology to observe, for the first time, how nuclear parton distributions depend on impact parameter."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "A New Strangeness Fit to World Parity-Violating Electron Scattering Data",
+      "event": "2016 Meeting of the Southeast Section of the APS (SESAPS)",
+      "date": "2016-11-01",
+      "location": "Charlottesville, VA",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "A New Strangeness Fit to World Parity-Violating Electron Scattering Data",
+      "event": "APS April Meeting 2017",
+      "date": "2017-01-01",
+      "location": "Washington, D.C.",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Non-UPC production of dimuons from two-photon scattering in Pb+Pb collisions with the ATLAS detector",
+      "event": "2019 Fall Meeting of the APS Division of Nuclear Physics",
+      "date": "2019-10-01",
+      "location": "online",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
+      "name": "Measurement of \u03b3\u03b3 \u2192 \u03bc+\u03bc\u2212 pairs in non-ultra peripheral Pb+Pb collisions with the ATLAS detector",
+      "event": "The 10th International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions (Hard Probes)",
+      "date": "2020-06-01",
+      "location": "Austin, Texas (online)",
+      "description": ""
+    },
+    {
+      "name": "Measurement of \u03b3\u03b3 \u2192 \u03bc+\u03bc\u2212 pairs in non-ultra peripheral Pb+Pb collisions with the ATLAS detector (Flash Talk)",
+      "event": "The 6th International Conference on the Initial Stages of High-Energy Nuclear Collisions (Initial Stages)",
+      "date": "2021-01-01",
+      "location": "Rehovot, Israel (online)",
+      "description": ""
+    },
+    {
+      "name": "Measurement of \u03b3\u03b3 \u2192 \u03bc+\u03bc\u2212 pairs in non-ultra peripheral Pb+Pb collisions with the ATLAS detector",
+      "event": "The 6th International Conference on the Initial Stages of High-Energy Nuclear Collisions (Initial Stages)",
+      "date": "2021-01-01",
+      "location": "Rehovot, Israel (online)",
+      "description": ""
+    },
+    {
+      "name": "Measurement of \u03b3\u03b3 \u2192 \u03bc+\u03bc\u2212 pairs in non-ultra peripheral Pb+Pb collisions with the ATLAS detector",
+      "event": "APS April Meeting 2021",
+      "date": "2021-04-01",
+      "location": "online",
+      "description": ""
+    },
+    {
+      "name": "Ultra-peripheral physics with ATLAS",
+      "event": "The 22nd Particles and Nuclei International Conference (PANIC)",
+      "date": "2021-09-01",
+      "location": "Lisbon, Portugal (online)",
+      "description": ""
+    },
+    {
+      "name": "Photonuclear jet production in Pb+Pb collisions with the ATLAS detector",
+      "event": "The 29th International Conference on Ultra-relativistic Nucleus-Nucleus Collisions (Quark Matter)",
+      "date": "2022-04-01",
+      "location": "Krakow, Poland",
+      "description": ""
+    },
+    {
+      "name": "ATLAS measurements of photo-nuclear processes in Pb+Pb collisions",
+      "event": "The 29th International Conference on Deep-Inelastic Scattering and Related Subjects (DIS)",
+      "date": "2022-05-01",
+      "location": "Santiago de Compostela, Spain",
+      "description": ""
+    },
+    {
+      "name": "Measurement of dijet production in UPC with the ATLAS detector",
+      "event": "The 11th International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions (Hard Probes)",
+      "date": "2023-03-01",
+      "location": "Aschaffenburg, Germany",
+      "description": ""
+    },
+    {
+      "name": "Dijet production as a probe of the initial state of hadronic collisions with the ATLAS Detector",
+      "event": "The 30th International Conference on Ultra-relativistic Nucleus-Nucleus Collisions (Quark Matter)",
+      "date": "2023-09-01",
+      "location": "Houston, TX",
+      "description": ""
+    },
+    {
+      "name": "UPC jet studies with the ATLAS detector",
+      "event": "The 2nd workshop on advancing the understanding of non-perturbative QCD using energy flow",
+      "date": "2023-11-01",
+      "location": "CFNS, Stony Brook, NY",
+      "description": ""
+    },
+    {
+      "name": "Measurement of dijet production in ultra-peripheral Pb+Pb collisions with ATLAS",
+      "event": "The 12th International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions (Hard Probes)",
+      "date": "2024-09-01",
+      "location": "Nagasaki, Japan",
+      "description": ""
+    },
+    {
+      "name": "Studies of Initial-State Nuclear Modifications with the ATLAS Experiment",
+      "event": "Cold Nuclear Matter Effects: From the LHC to the EIC",
+      "date": "2025-01-01",
+      "location": "CFNS, Stony Brook, NY",
+      "description": ""
+    },
+    {
+      "name": "Characterizing the bulk properties of photonuclear collisions with ATLAS measurements of inclusive and strange particle production",
+      "event": "The 31st International Conference on Deep-Inelastic Scattering and Related Subjects (DIS)",
+      "date": "2025-03-01",
+      "location": "Cape Town, South Africa (talk given remotely)",
+      "description": ""
+    },
+    {
+      "name": "Measurement of dijet photoproduction in ultraperipheral Pb+Pb collisions with ATLAS",
+      "event": "The 31st International Conference on Deep-Inelastic Scattering and Related Subjects (DIS)",
+      "date": "2025-03-01",
+      "location": "Cape Town, South Africa (talk given remotely)",
+      "description": ""
+    },
+    {
+      "name": "Measurement of dijet production, strange particle production, and bulk properties in photonuclear collisions with ATLAS",
+      "event": "The 31st International Conference on Ultra-relativistic Nucleus-Nucleus Collisions (Quark Matter)",
+      "date": "2025-03-01",
+      "location": "Frankfurt, Germany",
+      "description": ""
+    },
+    {
+      "name": "Inclusive and diffractive dijet production with the ATLAS experiment",
+      "event": "The 2nd International Workshop on the Physics of Ultra-Peripheral Collisions (UPC)",
+      "date": "2025-06-01",
+      "location": "Saariselk\u00e4, Finland",
+      "description": ""
+    },
+    {
+      "name": "Top-Quark and Jet Probes of nPDFs with the ATLAS Experiment",
+      "event": "The 8th International Conference on the Initial Stages of High-Energy Nuclear Collisions (Initial Stages)",
+      "date": "2025-09-01",
+      "location": "Taipei, Taiwan",
+      "description": ""
+    },
+    {
+      "name": "Overview of Results from the ATLAS Experiment",
+      "event": "The 22nd International Conference on Strangeness in Quark Matter (SQM)",
+      "date": "2026-03-01",
       "location": "Los Angeles, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Nuclear cross sections at the frontier: from cosmic rays to spatially resolved nuclear structure with ATLAS",
+      "event": "CERN LHC Seminar",
+      "date": "2026-05-01",
+      "location": "Geneva, Switzerland",
+      "description": ""
+    },
+    {
+      "name": "Probing the transverse structure of nPDF modifications with jet production in ultra-peripheral Pb+Pb collisions with the ATLAS detector",
+      "event": "The 33rd International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS)",
+      "date": "2026-05-01",
+      "location": "Bologna, Italy",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
+      "course": "Undergraduate Teaching Assistant, \"Energy on this World and Elsewhere\"",
+      "institution": "University of Virginia, Department of Physics",
+      "date": "2016-01-01",
       "role": "Undergraduate course",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
+      "course": "Laboratory Instructor, Physics 1291/1292 (Pre-med Physics Lab)",
+      "institution": "Columbia University, Department of Physics",
+      "date": "2017-09-01",
+      "role": "Undergraduate course",
+      "description": ""
+    },
+    {
+      "course": "Recitation Instructor, Physics 1201/1202 (Pre-med Physics)",
+      "institution": "Columbia University, Department of Physics",
+      "date": "2018-01-01",
+      "role": "Undergraduate course",
+      "description": ""
+    },
+    {
+      "course": "Recitation Instructor, Physics 2801/2802 (Accelerated Intro. Physics)",
+      "institution": "Columbia University, Department of Physics",
+      "date": "2018-09-01",
+      "role": "Undergraduate course",
+      "description": ""
+    },
+    {
+      "course": "Qualifying Exam Instructor",
+      "institution": "Columbia University, Department of Physics",
+      "date": "2018-09-01",
+      "role": "Graduate course",
+      "description": ""
+    },
+    {
+      "course": "Recitation Instructor, Physics 1601/1602 (Intro. Physics for Majors)",
+      "institution": "Columbia University, Department of Physics",
+      "date": "2019-09-01",
+      "role": "Undergraduate course",
+      "description": ""
+    },
+    {
+      "course": "Columbia Science Honors Program",
+      "institution": "Columbia University",
+      "date": "2019-09-01",
       "role": "Workshop",
       "description": ""
     }

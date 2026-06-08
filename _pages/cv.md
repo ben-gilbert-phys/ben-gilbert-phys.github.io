@@ -11,35 +11,67 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Nuclear Physics, Columbia University, 2024
+  * Advisor: Prof. Brian Cole
+* M.Phil. and M.A. in Physics, Columbia University, 2019
+* B.S. in Physics *with Highest Honors*, University of Virginia, 2017
+* B.S. in Computer Science *with Highest Honors*, University of Virginia, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2024 - Present: Postdoctoral Researcher in Nuclear Physics
+  * Lawrence Livermore National Laboratory
+  * Supervisors: Dr. Ron Soltz and Dr. Aaron Angerami
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2019 - May 2024: Research Assistant
+  * Columbia University
+  * Supervisor: Professor Brian Cole
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* August 2017 - May 2019: Teaching Assistant
+  * Columbia University
+
+Scientific leadership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Co-convener, ATLAS sub-group on Ultra-Peripheral Collisions (Mar 2024 - Present)
+  * Responsible for coordinating operations and analysis efforts for the ATLAS program studying UPCs
+* Serves as a reviewer for the Journal of High Energy Physics (JHEP)
+
+Technical work and skills
+======
+* Jet calibrations and performance
+  * Produced a full jet calibration for UPC by deploying the full ATLAS Run 2 procedure using *pp* data
+  * Developed new techniques for Z<sup>0</sup>+jet balance to measure the lowest-energy calorimetric jets in ATLAS
+* Calibration of the ATLAS Run 2 Pb+Pb luminosity measurements
+  * Performed final offline *vdM* scan calibrations of the ATLAS luminosity for the 2015 and 2018 Pb+Pb runs
+  * Achieved the highest precision of any ATLAS heavy ion luminosity calibration: 1.5% in 2015 and 1.9% in 2018
+* Programming languages and operating systems
+  * Proficient in Java, C, C++, and Python
+  * Proficient in Linux/Unix and Windows
+* Software tools
+  * Proficient with ROOT, Mathematica, git, FastJet, RooUnfold, and LaTeX
+  * Experienced in Monte Carlo generation with Pythia
+
+Honors and awards
+======
+* Allan M. Sachs Teaching Award, Columbia University (Oct 2019)
+  * Awarded for outstanding graduate student teaching at Columbia University
+* Jefferson Scholarship, University of Virginia (Sep 2013 - May 2017)
+  * Full undergraduate merit scholarship to U.Va.
+* Rodman Scholar, University of Virginia (Sep 2013 - May 2017)
+  * Honors program in the U.Va. School of Engineering
+
+Activities
+======
+* Columbia University Physics Graduate Council
+  * Social Chair (2019 - 2020, 2021 - 2022)
+* Jefferson Scholars Long Island Regional Selection Committee
+  * Regional Chair (2021 - 2022)
+  * Member (2019 - 2021)
+
+Schools and workshops
+======
+* Computational and Data Science Training for High Energy Physics (CoDAS-HEP), Princeton University (Aug 2022)
+  * Summer school on computational techniques for high energy physics
 
 Publications
 ======
@@ -58,7 +90,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
