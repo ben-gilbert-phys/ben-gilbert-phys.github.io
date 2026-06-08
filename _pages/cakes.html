@@ -1,0 +1,66 @@
+---
+layout: archive
+title: "Cakes"
+permalink: /cakes/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style>
+  .cake-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em;
+  }
+  .cake-grid .cake-item {
+    flex: 1 1 calc(50% - 1.5em);
+  }
+  .cake-grid .archive__item-teaser {
+    height: 280px;
+    max-height: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--global-footer-bg-color);
+  }
+  .cake-grid .archive__item-teaser img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+  @media (max-width: 600px) {
+    .cake-grid .cake-item {
+      flex: 1 1 100%;
+    }
+  }
+</style>
+
+<!-- Replace this paragraph with your own introductory text. -->
+<p>I have always loved decorating cakes, so each time I publish a new measurement, I have gotten into the habit of making an edible diagram of the collision system in cake form!</p>
+
+<div class="cake-grid">
+
+  <div class="cake-item">
+    <article class="archive__item">
+      <div class="archive__item-teaser">
+        <img src="{{ base_path }}/images/photonuclear-jet-cake.png" alt="">
+      </div>
+      <h2 class="archive__item-title">Photonuclear Jets</h2>
+      <p class="archive__item-excerpt">A diagram of photonuclear jet production in cake form.</p>
+    </article>
+  </div>
+
+  <div class="cake-item">
+    <article class="archive__item">
+      <div class="archive__item-teaser">
+        <img src="{{ base_path }}/images/non-upc-dimuon-cake.png" alt="">
+      </div>
+      <h2 class="archive__item-title">Non-UPC Dimuons</h2>
+      <p class="archive__item-excerpt">A diagram of di-muon photoproduction in a peripheral Pb+Pb collision.</p>
+    </article>
+  </div>
+
+</div>
